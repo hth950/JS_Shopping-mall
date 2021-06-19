@@ -66,7 +66,7 @@ function LandingPage() {
         setSkip(skip)
 
     }
-
+ 
     const renderCards = Products.map((product, index) => {
 
         //console.log('product', product)

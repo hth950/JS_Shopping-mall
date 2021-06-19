@@ -12,7 +12,6 @@ function ImageSlider(props) {
                     </div>
                 ))}
             </Carousel>
-
         </div>
     )
 }
